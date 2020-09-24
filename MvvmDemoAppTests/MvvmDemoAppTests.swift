@@ -7,7 +7,6 @@
 //
 import XCTest
 @testable import MvvmDemoApp
-
 class MvvmDemoAppTests: XCTestCase {
 
     override func setUp() {
